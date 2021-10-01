@@ -1,0 +1,14 @@
+print('Hello World')
+nome = "Mecanight"
+idade = 32
+altura = 1.78
+print(nome,'tem', idade, 'anos e', altura, "m de altura")
+a = 4
+b = 5
+c = 6
+soma = a + b + c
+subtr = a - b - c
+multip = a * b * c
+divis = a / b / c
+print(soma, subtr, multip, divis)
+print((soma - subtr), (multip / divis ))
